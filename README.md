@@ -5,15 +5,15 @@ I'm Eden Iyanda, a passionate programmer, physicist, and tech enthusiast. I'm de
 
 ## 🚀 About Me
 
-- 📚 **Current Studies**: I'm pursuing a degree in Physics with Electronics, currently resuming my third year at Lead City University. My studies fuel my curiosity and drive to understand the underlying principles of the universe and technology.
-- 💼 **Projects**: I'm actively working on a retail and invoicing software for shops and stores, focusing on streamlining sales processes and daily operations. This project showcases my skills in both backend and frontend development.
+- 📚 **Current Studies**: I'm pursuing a degree in Physics with Electronics, currently in my third year at Lead City University. My studies fuel my curiosity and drive to understand the underlying principles of the universe and technology.
 - 🖥️ **Skills**:
-  - **Programming Languages**: Python, C++, JavaScript, HTML, CSS.
-  - **Frameworks & Libraries**: PyQt5, Django, Flask, React.js, Node.js, Express.js, Flutter.
+  - **Programming Languages**: Python, JavaScript, HTML, CSS.
+  - **Frameworks & Libraries**: PyQt5, Django, Flask, TensorFlow, Scikit-learn, OpenCV.
   - **Database Management**: MySQL, SQLite.
   - **Version Control**: Git.
-  - **Web Development**: Currently learning and implementing technologies to build dynamic, responsive web applications.
-  - **Tools**: Visual Studio Code, PyCharm, GitHub, Docker, Postman.
+  - **Web Development**: Currently learning and implementing web technologies like React.js, Node.js, and Express.js to build dynamic, responsive web applications.
+  - **Tools**: Visual Studio Code, PyCharm, GitHub, Docker.
+
 
 
 
