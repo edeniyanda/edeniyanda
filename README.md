@@ -4,7 +4,7 @@ I'm Eden Iyanda, a passionate programmer, physicist, and tech enthusiast dedicat
 
 ### 🚀 About Me
 
-- 📚 **Current Studies**: Pursuing a degree in Physics with Electronics, currently in my third year at Lead City University. My studies fuel my curiosity and drive to understand the underlying principles of the universe and technology.
+- 📚 **Current Studies**: Pursuing a degree in Physics with Electronics. My studies fuel my curiosity and drive to understand the underlying principles of the universe and technology.
 - 🖥️ **Skills**:
   - **Programming Languages**: Python, JavaScript, HTML, CSS.
   - **Frameworks & Libraries**: PyQt5, Django, Flask, TensorFlow, Scikit-learn, OpenCV.
