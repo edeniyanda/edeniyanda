@@ -20,7 +20,7 @@ I'm Eden Iyanda, a passionate programmer, physicist, and tech enthusiast dedicat
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aedeniyanda&layout=donut-vertical&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut-vertical&hide_progress=true&theme=dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edeniyanda&show_icons=true&count_private=true&theme=dark)
 
