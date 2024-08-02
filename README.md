@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/c5f4cb69-f1fc-4c15-a920-62756d9a4f46)## Hi there 👋
 
 I'm Eden Iyanda, a passionate programmer, physicist, and tech enthusiast dedicated to exploring the intersection of science and technology. My journey began with a deep curiosity about how things work, leading me to dive into various programming languages, frameworks, and technologies.
 
@@ -23,4 +23,7 @@ I'm Eden Iyanda, a passionate programmer, physicist, and tech enthusiast dedicat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut-vertical&hide_progress=true&theme=dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edeniyanda&show_icons=true&count_private=true&theme=dark)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=edeniyanda&theme=dark)
+
 
