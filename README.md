@@ -24,4 +24,3 @@ I'm Eden Iyanda, a passionate programmer, physicist, and tech enthusiast dedicat
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edeniyanda&show_icons=true&count_private=true&theme=dark)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=edeniyanda&theme=dark)
