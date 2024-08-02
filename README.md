@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c5f4cb69-f1fc-4c15-a920-62756d9a4f46)## Hi there 👋
+## Hi there 👋
 
 I'm Eden Iyanda, a passionate programmer, physicist, and tech enthusiast dedicated to exploring the intersection of science and technology. My journey began with a deep curiosity about how things work, leading me to dive into various programming languages, frameworks, and technologies.
 
