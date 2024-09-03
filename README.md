@@ -6,11 +6,11 @@ I'm Eden Iyanda, a programmer, physicist, and tech enthusiast dedicated to explo
 
 - 📚 **Current Studies**: Pursuing a degree in Physics with Electronics. My studies fuel my curiosity and drive to understand the underlying principles of the universe and technology.
 - 🖥️ **Skills**:
-  - **Programming Languages**: Python, JavaScript, HTML, CSS.
+  - **Programming Languages**: Python, JavaScript
   - **Frameworks & Libraries**: PyQt5, Django, Flask, TensorFlow, Scikit-learn, OpenCV.
-  - **Database Management**: MySQL, SQLite.
-  - **Version Control**: Git.
-  - **Machine Learning**: Passionate about machine learning algorithms and applications.
+  - **Database Management**: MySQL, SQLite
+  - **Version Control**: Git
+  - **Machine Learning**: Passionate about machine learning algorithms and applications
   - **Web Development**: Currently learning and implementing web technologies like React.js, Node.js, and Express.js to build dynamic, responsive web applications.
   - **Tools**: Visual Studio Code, PyCharm, GitHub, Docker.
 
