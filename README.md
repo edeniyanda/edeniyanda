@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eden Iyanda, a programmer, physicist, and tech enthusiast dedicated to exploring the intersection of science and technology. My journey began with a deep curiosity about how things work, leading me to dive into various programming languages, frameworks, and technologies.
+I'm Eden Iyanda, a programmer, physicist, and tech enthusiast dedicated to exploring the intersection of science and technology. My journey started with a deep curiosity about the mechanics of the world, which naturally led me to explore a range of programming languages, frameworks, and technologies.
 
 ### 🚀 About Me
 
