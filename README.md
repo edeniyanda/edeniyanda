@@ -18,6 +18,7 @@ I'm Eden Iyanda, a programmer, physicist, and tech enthusiast dedicated to explo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edeniyanda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edeniyanda/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EdenTechie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/edeninioluwa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/edeniyanda/)
 
+<!--
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut-vertical&hide_progress=true&theme=dark)
@@ -25,5 +26,6 @@ I'm Eden Iyanda, a programmer, physicist, and tech enthusiast dedicated to explo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edeniyanda&show_icons=true&count_private=true&theme=dark)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=edeniyanda&theme=dark)
+-->
 
 
