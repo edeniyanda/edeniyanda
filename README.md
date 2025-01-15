@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Eden Iyanda**—a programmer, physicist, and tech enthusiast passionate about blending science and technology to solve real-world challenges.
+I'm **Eden Iyanda**, a programmer, physicist, and tech enthusiast passionate about blending science and technology to solve real-world challenges.
 
 ### 🚀 About Me
 - 🖥️ **Core Skills**:
