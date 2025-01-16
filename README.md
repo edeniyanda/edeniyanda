@@ -21,13 +21,22 @@ I'm **Eden Iyanda**, a programmer, physicist, and tech enthusiast passionate abo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edeniyanda/)
 
 
+
+<div align="center">
+
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut-vertical&hide_progress=true&theme=dark)
+### ⭐️ Overall Contributions
+<img src="https://github-readme-stats.vercel.app/api?username=edeniyanda&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" height="150">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edeniyanda&show_icons=true&count_private=true&theme=dark)
+### 🔥 Streak Stats
+<img src="https://streak-stats.demolab.com/?user=edeniyanda&theme=dark" alt="GitHub Streak Stats" height="150">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=edeniyanda&theme=dark)
+### 🎨 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=compact&theme=dark" alt="Top Languages" height="150">
+
+</div>
+
 
 
 
