@@ -30,11 +30,14 @@ I'm **Eden Iyanda**, a programmer, physicist, and tech enthusiast passionate abo
 
 ### 📊 GitHub Stats
 
+<!-- 
+  
 ### 🔥 Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=edeniyanda&theme=dark&hide_border=true)
+-->
 
 ### 🎨 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut&langs_count=7&theme=dark" alt="Top Languages" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut&langs_count=6&theme=dark" alt="Top Languages" height="200">
 
 </div>
 
