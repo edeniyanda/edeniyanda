@@ -15,10 +15,14 @@ I'm **Eden Iyanda**, a programmer, physicist, and tech enthusiast passionate abo
   - Building intuitive, user-friendly applications (Desktop and Web)
 
 ### 🌐 Let's Connect
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/edeniyanda) 
+<!-- 
+  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/edeniyanda) 
+-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edeniyanda/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EdenTechie) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edeniyanda/)
+<!-- 
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edeniyanda/)
+-->
 
 
 
@@ -27,7 +31,7 @@ I'm **Eden Iyanda**, a programmer, physicist, and tech enthusiast passionate abo
 ### 📊 GitHub Stats
 
 ### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.demolab.com/?user=edeniyanda&theme=dark" alt="GitHub Streak Stats" height="150">
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=edeniyanda&theme=dark&hide_border=true)
 
 ### 🎨 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut&langs_count=7&theme=dark" alt="Top Languages" height="200">
