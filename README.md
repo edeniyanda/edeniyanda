@@ -20,7 +20,7 @@ I'm **Eden Iyanda**, a programmer, physicist, and tech enthusiast passionate abo
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EdenTechie) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edeniyanda/)
 
-<!--
+
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut-vertical&hide_progress=true&theme=dark)
@@ -28,6 +28,6 @@ I'm **Eden Iyanda**, a programmer, physicist, and tech enthusiast passionate abo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edeniyanda&show_icons=true&count_private=true&theme=dark)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=edeniyanda&theme=dark)
--->
+
 
 
