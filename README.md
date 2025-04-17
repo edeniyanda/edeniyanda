@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate about blending science and technology to solve real-world problems.
+
 ---
-### 🚀 About Me
+
 <!--
 - 🖥️ **Core Skills**:
   - **Languages**: Python, JavaScript, Java
@@ -15,6 +16,8 @@ I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate 
   - Automation
   - Building intuitive, user-friendly applications (Desktop and Web)
 -->
+### 🚀 About Me
+
 ### 🖥️ **Tech Stack**  
 -  **Languages:** Python, JavaScript, Java  
 -  **Frameworks & Libraries:** Django, Flask, PyQt5, JavaFX, Electron.js, TensorFlow, Scikit-learn, OpenCV  
@@ -43,11 +46,11 @@ I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate 
 
 ### 📊 GitHub Stats
 
-  
+ <!-- 
 ### 🔥 Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=edeniyanda&theme=dark&hide_border=true)
 
-
+-->
 ### 🎨 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut&langs_count=6&theme=dark" alt="Top Languages" height="200">
 
