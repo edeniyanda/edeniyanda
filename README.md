@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate about blending science and technology to solve real-world problems.
-
+---
 ### 🚀 About Me
 <!--
 - 🖥️ **Core Skills**:
@@ -15,17 +15,17 @@ I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate 
   - Automation
   - Building intuitive, user-friendly applications (Desktop and Web)
 -->
-### **Tech Stack**  
-**Languages:** Python, JavaScript, Java  
-**Frameworks & Libraries:** Django, Flask, PyQt5, JavaFX, Electron.js, TensorFlow, Scikit-learn, OpenCV  
-**Web Development:** React.js, Node.js  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**Version Control:** Git
+###🖥️ **Tech Stack**  
+-  **Languages:** Python, JavaScript, Java  
+-  **Frameworks & Libraries:** Django, Flask, PyQt5, JavaFX, Electron.js, TensorFlow, Scikit-learn, OpenCV  
+-  **Web Development:** React.js, Node.js  
+-  **Databases:** PostgreSQL, MySQL, SQLite  
+-  **Version Control:** Git
 
 ---
 
 ### **Interests**  
-ML & AI â€¢ Automation â€¢ Building user-friendly desktop & web apps
+  ML & AI â€¢ Automation - Building user-friendly desktop & web apps
 
 ### 🌐 Let's Connect
 <!-- 
