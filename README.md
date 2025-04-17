@@ -28,7 +28,9 @@ I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate 
 ---
 
 ### 🤖 **Interests**  
-  ML & AI â€¢ Automation - Building user-friendly desktop & web apps
+ML & AI • Automation • Building user-friendly desktop & web apps
+
+---
 
 ### 🌐 Let's Connect
 <!-- 
@@ -39,9 +41,6 @@ I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate 
 <!-- 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edeniyanda/)
 -->
-
-
-
 <div align="center">
 
 ### 📊 GitHub Stats
