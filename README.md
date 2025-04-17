@@ -15,7 +15,7 @@ I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate 
   - Automation
   - Building intuitive, user-friendly applications (Desktop and Web)
 -->
-###🖥️ **Tech Stack**  
+### 🖥️ **Tech Stack**  
 -  **Languages:** Python, JavaScript, Java  
 -  **Frameworks & Libraries:** Django, Flask, PyQt5, JavaFX, Electron.js, TensorFlow, Scikit-learn, OpenCV  
 -  **Web Development:** React.js, Node.js  
@@ -24,7 +24,7 @@ I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate 
 
 ---
 
-### **Interests**  
+### 🤖 **Interests**  
   ML & AI â€¢ Automation - Building user-friendly desktop & web apps
 
 ### 🌐 Let's Connect
@@ -42,7 +42,6 @@ I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate 
 <div align="center">
 
 ### 📊 GitHub Stats
-
 
   
 ### 🔥 Streak Stats
