@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Eden Iyanda** — a programmer, physicist, and tech enthusiast passionate about blending science and technology to solve real-world problems.
+I'm **Eden Iyanda** - a programmer, physicist, and tech enthusiast passionate about blending science and technology to solve real-world problems.
 
 ---
 
@@ -54,6 +54,7 @@ ML & AI • Automation • Building user-friendly desktop & web apps
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut&langs_count=6&theme=dark" alt="Top Languages" height="200">
 
 </div>
+
 
 
 
