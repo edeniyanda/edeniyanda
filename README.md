@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Eden Iyanda** - a programmer, physics undergrad, and tech enthusiast passionate about blending science and technology to solve real-world problems.
+I'm **Eden Iyanda** - a software dev, physics undergrad, and tech enthusiast passionate about blending science and technology to solve real-world problems.
 
 ---
 
