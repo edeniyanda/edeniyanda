@@ -5,8 +5,8 @@ Dev + physics undergrad. Building tools that fuse code and science: automation, 
 ## What I Do
 - Python for web (Django/Flask), GUIs (Electron.js, PyQt, JavaFX), and ML (TensorFlow/Scikit-learn).
 - Physics-inspired projects: Predictive modeling, data viz, OpenCV experiments.
-- Current: [**TerraConc**](https://terracorn.com/products/) - streamlining material testing, reporting, and quality control (built with [@tundetoday](https://github.com/tundetoday)).
-
+- Current: [**TerraConc**](https://terracorn.com/products/)—streamlining material testing, reports, and QC for engineers. Reduced reporting time by 60%; centralized data to ditch spreadsheets and paperwork (co-built with [@tundetoday](https://github.com/tundetoday)).
+  
 Interests: AI, chess, space sims. No fluff, just shipping code.
 
 ## Stack
