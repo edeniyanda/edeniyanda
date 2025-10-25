@@ -10,7 +10,7 @@ Dev + physics undergrad. Building tools that fuse code and science: automation, 
 Interests: AI, chess, space sims. No fluff, just shipping code.
 
 ## Stack
-## Core Languages
+### Core Languages
 <div align="left ">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -23,7 +23,7 @@ Interests: AI, chess, space sims. No fluff, just shipping code.
   </a>
 </div>
 
-## Tools & Frameworks
+### Tools & Frameworks
 
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
