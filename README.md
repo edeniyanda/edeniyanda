@@ -24,7 +24,7 @@ Interests: AI, chess, space sims. No fluff, just shipping code.
 </div>
 
 ## Tools & Frameworks
-<div align="left">
+
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   </a>
@@ -43,7 +43,7 @@ Interests: AI, chess, space sims. No fluff, just shipping code.
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
-</div>
+
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edeniyanda/) 
