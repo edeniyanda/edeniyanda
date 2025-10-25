@@ -3,11 +3,6 @@
 Dev + physics undergrad. Building tools that fuse code and science: automation, web/desktop apps, AI models for real problems.
 
 ## What I Do
-- # Eden Iyanda
-
-Django full-stack dev + physics undergrad. Building tools that fuse code and science: automation, web/desktop apps, AI models for real problems.
-
-## What I Do
 - Full-stack web dev with Python (Django/DRF for backend, React/JS for frontend), GUIs (Electron.js, PyQt, JavaFX), and ML (TensorFlow/Scikit-learn).
 - Physics-inspired projects: Predictive modeling, data viz, OpenCV experiments.
 - Current: [**TerraConc**](https://terracorn.com/products/) - streamlining material testing, reports, and QC for engineers. Reduced reporting time by 60%; centralized data to ditch spreadsheets and paperwork (co-built with [@tundetoday](https://github.com/tundetoday)).
