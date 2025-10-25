@@ -54,4 +54,4 @@ Interests: AI, chess, space sims. No fluff, just shipping code.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut&langs_count=5&theme=radical" alt="Top Languages" height="180">
 </div>
 
-🚀 Let's build something., GUIs (Electron.js, PyQt, JavaFX), and ML (TensorFlow/Scikit-learn).
+🚀 Let's build something.
