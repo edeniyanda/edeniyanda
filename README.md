@@ -7,7 +7,7 @@ Dev + physics undergrad. Building tools that fuse code and science: automation, 
 - Physics-inspired projects: Predictive modeling, data viz, OpenCV experiments.
 - Current: [**TerraConc**](https://terracorn.com/products/) - streamlining material testing, reports, and QC for engineers. Reduced reporting time by 60%; centralized data to ditch spreadsheets and paperwork (co-built with [@tundetoday](https://github.com/tundetoday)).
   
-Interests: AI, chess, space sims. No fluff, just shipping code.
+Interests: AI, chess, space sims.
 
 ## Stack
 ### Core Languages
