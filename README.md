@@ -7,9 +7,6 @@ Software developer and computational researcher. My background spans physics and
 - **Computational Modeling:** Working with Physics-Informed Neural Networks (PINNs) for continuous solvers and orbital mechanics.
 - **Teaching:** Mentoring and instructing students in programming logic and software development.
 
-## Selected Work
-- [**TerraConc**](https://terracorn.com/products/): A web platform streamlining material testing and reporting for civil engineers. Replaced legacy spreadsheet workflows and centralized data management (co-built with [@tundetoday](https://github.com/tundetoday)).
-
 ## Tech Stack
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
