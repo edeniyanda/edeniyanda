@@ -3,9 +3,9 @@
 Software developer and computational researcher. My background spans physics and computer science.
 
 ## Current Focus
-- **Computational Physics:** Researching and applying Physics-Informed Neural Networks (PINNs)
+- **Computational Physics:** Researching and applying Physics-Informed Neural Networks (PINNs).
 - **Software Engineering:** Developing scalable backend architectures and modern web platforms.
-- **Teaching:** Teaching programming logic to kids and tennagers (also adult who has mind of the former)
+- **Teaching:** Teaching programming logic to kids and teenagers (also adults who have the mind of the former).
 
 ## Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
@@ -23,3 +23,5 @@ Software developer and computational researcher. My background spans physics and
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut&langs_count=5&theme=radical" alt="Top Languages" height="180">
 </div>
+
+*Remember, we're all variables, God is the Constant.*
