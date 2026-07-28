@@ -11,6 +11,3 @@ Software developer and computational researcher. My background spans physics and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edeniyanda/) &nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/EdenTechie)
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edeniyanda&layout=donut&langs_count=5&theme=radical" alt="Top Languages" height="180">
-</div>
