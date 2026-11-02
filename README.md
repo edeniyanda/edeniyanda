@@ -4,7 +4,7 @@ Software developer and computational researcher. My background spans physics and
 
 ## Current Focus
 - **Computational Physics:** Researching and applying Physics-Informed Neural Networks (PINNs).
-- **Software Engineering:** Developing scalable backend architectures and modern web platforms.
+- **Software Engineering:** Developing scalable backend architectures and modern desktop/web platforms.
 - **Teaching:** Teaching programming logic to kids and teenagers (also adults who have the mind of the former).
 
 ## Connect
